@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "video game tests">
+<test name = "video game tests">
+
+<classes>
+
+<class name = "TC_Post_VideoGame_DDT" />
+
+</classes>
+
+
+</test>
+
+</suite>

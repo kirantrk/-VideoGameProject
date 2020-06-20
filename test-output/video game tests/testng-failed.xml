@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [video game tests]">
+  <test thread-count="5" name="video game tests(failed)">
+    <classes>
+      <class name="testCases.TC_VideoGameAPI_Tests">
+        <methods>
+          <include name="test_updateVideoGame"/>
+          <include name="test_getVideoGame"/>
+        </methods>
+      </class> <!-- testCases.TC_VideoGameAPI_Tests -->
+    </classes>
+  </test> <!-- video game tests(failed) -->
+</suite> <!-- Failed suite [video game tests] -->
